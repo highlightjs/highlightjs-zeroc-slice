@@ -1,0 +1,26 @@
+{
+  "name": "highlightjs-zeroc-slice",
+  "version": "0.1.0",
+  "description": "highlight.js syntax definition for Slice language (from https://zeroc.com/)",
+  "main": "src/slice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highlightjs/highlightjs-zeroc-slice.git"
+  },
+  "keywords": [
+    "zeroc",
+    "slice",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "Brahim DJOUDI <br.djoudi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highlightjs/highlightjs-zeroc-slice/issues"
+  },
+  "homepage": "https://github.com/highlightjs/highlightjs-zeroc-slice"
+}
