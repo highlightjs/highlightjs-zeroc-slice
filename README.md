@@ -16,7 +16,7 @@ var hljs = require('highlightjs');
 var hljsSlice = require('highlightjs-zeroc-slice');
 
 hljs.registerLanguage("slice", hljsSlice);
-hljs.initHighlightingOnLoad();
+hljs.highlightAll();
 ```
 
 ## License
